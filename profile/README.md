@@ -8,10 +8,10 @@ Started in 2017, Passepartout has grown into a robust solution offering modules 
 
 - **[OpenVPN®][openvpn]**: The most widespread VPN protocol, plus the [Tunnelblick XOR patch][openvpn-xor-patch].
 - **[WireGuard®][wireguard]**: Connect to fast and modern WireGuard servers.
+- **On-Demand Rules**: Automatically connect to VPN based on network conditions.
 - **DNS Overriding**: Customize DNS settings easily.
 - **HTTP Proxy**: Configure HTTP proxy settings to enhance privacy.
 - **IP Routing**: Set up IP settings for precise routing control.
-- **On-Demand Rules**: Automatically connect to VPN based on network conditions.
 
 ## Why Passepartout?
 
