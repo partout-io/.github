@@ -23,9 +23,10 @@ Join the [Reddit community](https://www.reddit.com/r/passepartout/) for discussi
 
 ## Donate
 
-Passepartout is independent work. If you like it, please consider [making a donation][donations].
+Passepartout is [independent work][web-about]. If you like it, please consider [making a donation][web-donate].
 
 [openvpn]: https://openvpn.net/index.php/open-source/overview.html
 [openvpn-xor-patch]: https://tunnelblick.net/cOpenvpn_xorpatch.html
 [wireguard]: https://www.wireguard.com/
-[donations]: https://buymeacoffee.com/passepartout
+[web-about]: https://passepartoutvpn.app/about/
+[web-donate]: https://buymeacoffee.com/passepartout
