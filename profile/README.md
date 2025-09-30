@@ -2,6 +2,8 @@
 
 **[Passepartout][app-store]** is an open-source app designed to simplify the configuration of local network settings, primarily for VPN connections. It aims to provide a single tool for connecting to multiple VPN providers while maintaining user privacy and flexibility.
 
+Part of the [Partout][github-partout] project.
+
 ## Overview
 
 Started in 2017, Passepartout has grown into a robust solution offering modules for:
@@ -26,6 +28,7 @@ Join the [Reddit community](https://www.reddit.com/r/passepartout/) for discussi
 Passepartout is [independent work][web-about]. If you like it, please consider [making a donation][web-donate].
 
 [app-store]: https://apps.apple.com/us/app/passepartout-vpn-client/id1433648537
+[github-partout]: https://github.com/partout-io
 [openvpn]: https://openvpn.net/index.php/open-source/overview.html
 [openvpn-xor-patch]: https://tunnelblick.net/cOpenvpn_xorpatch.html
 [wireguard]: https://www.wireguard.com/
