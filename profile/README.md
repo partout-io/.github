@@ -1,6 +1,6 @@
 # Passepartout
 
-**[Passepartout](app-store)** is an open-source app designed to simplify the configuration of local network settings, primarily for VPN connections. It aims to provide a single tool for connecting to multiple VPN providers while maintaining user privacy and flexibility.
+**[Passepartout][app-store]** is an open-source app designed to simplify the configuration of local network settings, primarily for VPN connections. It aims to provide a single tool for connecting to multiple VPN providers while maintaining user privacy and flexibility.
 
 ## Overview
 
