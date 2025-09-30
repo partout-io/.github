@@ -1,10 +1,10 @@
-# Partout
+# Passepartout
 
-**Partout** is a suite of open-source apps and libraries designed to simplify the configuration of local network settings, primarily for VPN connections. It aims to provide a single tool for connecting to multiple VPN providers while maintaining user privacy and flexibility.
+**Passepartout** is a suite of open-source apps and libraries designed to simplify the configuration of local network settings, primarily for VPN connections. It aims to provide a single tool for connecting to multiple VPN providers while maintaining user privacy and flexibility.
 
 ## Overview
 
-Started in 2017, **Passepartout** is based on Partout and has grown into a robust solution offering modules for:
+Started in 2017, Passepartout has grown into a robust solution offering modules for:
 
 - **[OpenVPN®][openvpn]**: The most widespread VPN protocol, plus the [Tunnelblick XOR patch][openvpn-xor-patch].
 - **[WireGuard®][wireguard]**: Connect to fast and modern WireGuard servers.
